@@ -26,6 +26,8 @@ To trust the certificate (Windows and macOS only) run
         - View Component for Contact Form
     - Umbraco Forms
 - Content Delivery API
+    - https://docs.umbraco.com/umbraco-cms/reference/content-delivery-api
     - Maui App
 - Web Hooks
+    - https://docs.umbraco.com/umbraco-cms/reference/webhooks
     - Notifications
