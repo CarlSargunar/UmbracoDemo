@@ -13,6 +13,14 @@ To trust the certificate (Windows and macOS only) run
     dotnet dev-certs https --trust
 
 
+## Templates
+
+- Add The Master Template
+    - 
+
+
+
+
 ## Demo Notes
 
 - Modelsbuilder
